@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Sweco-NL/Autodesk%20AI/_apis/build/status%2FSweco-NLEDWM.pipelines-java?branchName=main)](https://dev.azure.com/Sweco-NL/Autodesk%20AI/_build/latest?definitionId=331&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
